@@ -22,3 +22,7 @@ Este script Python utiliza a biblioteca `pyautogui` para automatizar tarefas no 
     pip install pyautogui
     pip install opencv-python
    ```
+
+## pyautogui-test.ipynb
+
+Este código criará um loop infinito que continuará exibindo a posição e o valor RGB do mouse. Para encerrar o loop, você pode interromper a execução do código no Jupyter Notebook ou condição de saída no loop (pressionar tecla q).
